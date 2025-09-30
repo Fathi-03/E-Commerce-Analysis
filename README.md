@@ -63,5 +63,5 @@ A comprehensive analytics project for e-commerce store data covering multiple as
 ### 📄 Licensing
 - This project is for educational and analytical purposes.
 ----
-📞 * For inquiries *: fathiaowedelmalky@gmail.com 
+📞 **For inquiries**: fathiaowedelmalky@gmail.com 
 🕒 Last update: December 2024
